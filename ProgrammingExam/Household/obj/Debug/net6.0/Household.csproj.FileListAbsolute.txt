@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\bin\Debug\net6.0\Household.deps.json
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\bin\Debug\net6.0\Household.dll
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\bin\Debug\net6.0\Household.pdb
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.dll
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\refint\Household.dll
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\Household.pdb
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\Household\obj\Debug\net6.0\ref\Household.dll

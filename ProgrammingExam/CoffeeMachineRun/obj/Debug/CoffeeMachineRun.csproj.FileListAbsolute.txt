@@ -1,0 +1,8 @@
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\obj\Debug\CoffeeMachineRun.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\obj\Debug\CoffeeMachineRun.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\obj\Debug\CoffeeMachineRun.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\bin\Debug\CoffeeMachineRun.exe.config
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\bin\Debug\CoffeeMachineRun.exe
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\bin\Debug\CoffeeMachineRun.pdb
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\obj\Debug\CoffeeMachineRun.exe
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\CoffeeMachineRun\obj\Debug\CoffeeMachineRun.pdb
