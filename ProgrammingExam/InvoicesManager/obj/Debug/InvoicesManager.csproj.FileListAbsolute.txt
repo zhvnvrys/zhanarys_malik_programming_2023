@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.Form1.resources
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.exe.config
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.exe
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.pdb
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.exe
+C:\Users\user\Documents\GitHub\zhanarys_malik_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.pdb

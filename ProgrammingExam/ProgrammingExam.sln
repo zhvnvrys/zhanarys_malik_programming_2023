@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineRun", "CoffeeMachineRun\CoffeeMachineRun.csproj", "{893AA796-F175-4529-B3F5-45B822F7D6CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoicesManager", "InvoicesManager\InvoicesManager.csproj", "{5FE978D5-DAAC-4D05-B61C-6966C40AE405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{893AA796-F175-4529-B3F5-45B822F7D6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{893AA796-F175-4529-B3F5-45B822F7D6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{893AA796-F175-4529-B3F5-45B822F7D6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE978D5-DAAC-4D05-B61C-6966C40AE405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE978D5-DAAC-4D05-B61C-6966C40AE405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE978D5-DAAC-4D05-B61C-6966C40AE405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE978D5-DAAC-4D05-B61C-6966C40AE405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

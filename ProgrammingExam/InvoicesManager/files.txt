@@ -1,0 +1,7 @@
+Price;Date;ExpenseType
+1000.00;2021-01-01;Furniture
+20.50;2021-01-02;Beverages
+500.00;2021-01-02;Furniture
+405.30;2021-01-04;Food
+400.00;2021-01-04;Clothing
+25.40;2021-01-05;Food
