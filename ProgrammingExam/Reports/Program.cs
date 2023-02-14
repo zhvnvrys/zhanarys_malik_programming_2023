@@ -13,7 +13,7 @@ foreach (var customer in context.Customers)
 var me = new Customer
 {
     FirstName = "Zhanarys",
-    LastName = "Maliik",
+    LastName = "Malik",
     PasswordHash = "qwertyas1234",
     PasswordSalt = "51C00"
 };
