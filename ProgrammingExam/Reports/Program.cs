@@ -10,8 +10,6 @@ foreach (var customer in context.Customers)
     Console.WriteLine($"{customer.FirstName} {customer.LastName} (Company Name: {customer.CompanyName}) (ID: {customer.CustomerId})");
 }
 
-
-
 var me = new Customer
 {
     FirstName = "Zhanarys",
@@ -22,7 +20,6 @@ var me = new Customer
 
 context.Customers.Add(me);
 context.SaveChanges();
-
 
 Console.WriteLine("Updated table");
 
